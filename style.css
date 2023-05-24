@@ -1,0 +1,21 @@
+header{
+    height: 80vh;
+    background:url(./mountains.png) , linear-gradient(rgba(255, 255, 255, 0.815),rgba(255, 255, 255, 0)),url(./switzerland-862870_1920.jpg); 
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.Titolo{
+    font-family: 'Nova Square', cursive;
+    color: rgb(139, 12, 12);
+    letter-spacing: 30px;
+}
+.Testo{
+    font-family: 'Nova Square', cursive;
+    
+}
+.Testo2{
+    font-family: 'Nova Square', cursive;
+    color:rgba(139, 12, 12) ;
+}
